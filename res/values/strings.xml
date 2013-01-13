@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Power Switch</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="activity_main_switch_on">Switch on</string>
+    <string name="activity_main_switch_off">Switch off</string>
+
+</resources>
